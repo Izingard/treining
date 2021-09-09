@@ -1,0 +1,31 @@
+h1 { 
+    text-align: center; 
+    color: blueviolet;
+}
+section {
+    text-align: center;
+    font-size: large;
+    color: darkred;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p {
+    line-height: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+main {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+}
+story {
+    font-family: cursive;
+    color:darkgreen;
+}
+pre {
+    font-size: large;
+    color: deeppink;
+    font-weight: 600;
+    font-style: italic;
+}
+q {
+    color: orange;
+}
